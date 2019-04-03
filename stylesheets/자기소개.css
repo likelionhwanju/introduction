@@ -1,0 +1,22 @@
+
+
+.header{
+    text-align:right;
+}
+.main-contents{
+    padding:10em;
+    padding-top:0;
+    padding-bottom:0;
+
+}
+.footer{
+    text-align:center;
+    border-top:1px solid black;
+    padding:2em;
+}
+.footprint{
+    padding:10em;
+    padding-top:0;
+    padding-bottom:0;
+    margin-bottom:1em;
+}
